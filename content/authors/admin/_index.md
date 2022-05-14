@@ -20,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Компьютерные технологии 
   - Unreal Engine
-  - Создание игр и моделирование
+  - Создание игр  и моделирование
 
 # Education to show in About widget
 education:
